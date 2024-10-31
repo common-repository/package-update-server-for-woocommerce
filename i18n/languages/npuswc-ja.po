@@ -1,0 +1,897 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: NPUSWC\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2018-11-26 20:32+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Nora\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: i18n\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/abstract/class-npuswc-unique-abstract.php:33
+#: includes/class-npuswc.php:90
+#: includes/token/class-npuswc-post-type-token.php:35
+msgid "DO NOT Clone."
+msgstr ""
+
+#: includes/abstract/class-npuswc-unique-abstract.php:41
+#: includes/class-npuswc.php:98
+#: includes/token/class-npuswc-post-type-token.php:44
+msgid "DO NOT Unserialize"
+msgstr ""
+
+#: includes/admin/class-npuswc-admin-pages.php:99
+#: includes/admin/class-npuswc-admin-pages.php:100
+msgid "NPUSWC"
+msgstr "NPUSWC"
+
+#: includes/admin/class-npuswc-admin-pages.php:201
+#: includes/admin/class-npuswc-user-meta-manager.php:146
+#: includes/endpoint/class-npuswc-endpoint-purchased-tokens.php:28
+msgid "Download Tokens"
+msgstr "ダウンロードトークン"
+
+#: includes/admin/class-npuswc-admin-pages.php:202
+#: includes/endpoint/class-npuswc-endpoint-purchased-tokens.php:25
+msgid "Endpoint for the \"Download Tokens\" page."
+msgstr "「ダウンロードトークン」ページ用のエンドポイント"
+
+#: includes/admin/class-npuswc-order-metabox.php:79
+msgid "NPUSWC User URL Viewer"
+msgstr "ユーザーURLビュアー"
+
+#: includes/admin/class-npuswc-product-metabox.php:146
+msgid "Package Type"
+msgstr "パッケージタイプ"
+
+#: includes/admin/class-npuswc-product-metabox.php:148
+msgid ""
+"Please select \"Theme\" or \"Plugin\" if the package is of WP Theme or "
+"Plugin."
+msgstr ""
+"パッケージがWordPressテーマやプラグインなら、「テーマ」もしくは「プラグイン」"
+"を選択してください。"
+
+#: includes/admin/class-npuswc-product-metabox.php:150
+msgid "None"
+msgstr "なし"
+
+#: includes/admin/class-npuswc-product-metabox.php:151
+msgid "Theme"
+msgstr "テーマ"
+
+#: includes/admin/class-npuswc-product-metabox.php:152
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: includes/admin/class-npuswc-product-metabox.php:153
+msgid "Others"
+msgstr "その他"
+
+#: includes/admin/class-npuswc-product-metabox.php:165
+msgid "Package Version"
+msgstr "パッケージのバージョン"
+
+#: includes/admin/class-npuswc-product-metabox.php:167
+msgid "Please enter version of the package."
+msgstr "パッケージのバージョンを入力してください。"
+
+#: includes/admin/class-npuswc-product-metabox.php:178
+msgid "Tested Envirionment Version"
+msgstr "テストされた環境のバージョン"
+
+#: includes/admin/class-npuswc-product-metabox.php:180
+msgid "Tested Envirionment version."
+msgstr "テストされた環境のバージョンを入力してください。"
+
+#: includes/admin/class-npuswc-user-meta-manager.php:162
+msgid "Puchased Tokens"
+msgstr "購入済みトークン"
+
+#: includes/admin/class-npuswc-user-meta-manager.php:194
+#: includes/endpoint/class-npuswc-endpoint-purchased-tokens.php:81
+msgid "Get the Token."
+msgstr "トークンを取得"
+
+#: includes/admin/file/class-npuswc-filesystem-methods.php:284
+msgid "Wrong"
+msgstr ""
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:44
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:44
+msgid "Token is empty."
+msgstr "トークンが空です。"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:48
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:48
+msgid "Token Object is empty."
+msgstr "トークンオブジェクトが空です。"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:53
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:53
+msgid "Expired."
+msgstr "有効期限が切れています。"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:75
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:75
+msgid "Product Name"
+msgstr "商品名"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:76
+#: includes/admin/views/template-purchased-downloadable-tokens.php:107
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:76
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:107
+msgid "Version"
+msgstr "バージョン"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:77
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:77
+msgid "Expiry"
+msgstr "有効期限"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:79
+#: includes/admin/views/template-shop-order-jwt.php:27
+#: includes/class-npuswc-translatable-texts.php:82
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:79
+msgid "Token"
+msgstr "トークン"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:132
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:132
+msgid "Get the Token"
+msgstr "トークンを取得"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:167
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:167
+msgid "To Shop"
+msgstr "お店へ"
+
+#: includes/admin/views/template-purchased-downloadable-tokens.php:169
+#: includes/endpoint/views/template-purchased-downloadable-tokens.php:169
+msgid "You don't have any available purchased token."
+msgstr "有効な購入済みトークンがありません。"
+
+#: includes/admin/views/template-shop-order-jwt.php:26
+msgid "Product"
+msgstr "商品"
+
+#: includes/admin/views/template-shop-order-jwt.php:28
+msgid "Number of the purchased product"
+msgstr "購入商品の数"
+
+#: includes/admin/views/template-shop-order-jwt.php:29
+msgid "Registered hashed URLs"
+msgstr "登録されたURLハッシュ値"
+
+#: includes/class-npuswc-data-store-loader.php:69
+#: includes/class-npuswc-data-store-loader.php:75
+#: includes/class-npuswc-data-store-loader.php:81
+msgid "Invalid data store."
+msgstr "無効なデータストア"
+
+#: includes/class-npuswc-option-manager.php:228
+#: templates/admin-page/parts/guide.php:33
+msgid "Package Update Server"
+msgstr "パッケージアップデートチェッカー"
+
+#: includes/class-npuswc-option-manager.php:229
+msgid "Package Update Server."
+msgstr "パッケージアップデートチェッカー"
+
+#: includes/class-npuswc-option-manager.php:248
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+#: includes/class-npuswc-option-manager.php:249
+msgid "Secret Key for Token."
+msgstr "トークン用シークレットキー"
+
+#: includes/class-npuswc-option-manager.php:546
+#: includes/class-npuswc-option-manager.php:568
+msgid "No option data."
+msgstr "オプションデータなし"
+
+#: includes/class-npuswc-token-manager.php:186
+msgid "Failed to generate tokens."
+msgstr "トークンの生成に失敗しました。"
+
+#: includes/class-npuswc-token-manager.php:223
+msgid "Has no Updates."
+msgstr "更新はありません。"
+
+#: includes/class-npuswc-token-manager.php:467
+#: includes/token/class-npuswc-token-validator.php:362
+msgid "Token is invalid string."
+msgstr "トークンが無効な文字列です。"
+
+#: includes/class-npuswc-token-manager.php:488
+#: includes/token/class-npuswc-token-validator.php:372
+msgid "Token is expired."
+msgstr "トークンの期限が切れています。"
+
+#: includes/class-npuswc-translatable-texts.php:75
+#: templates/admin-page/parts/settings.php:21
+msgid "Package Update Server for WooCommerce"
+msgstr "Package Update Server for WooCommerce"
+
+#: includes/class-npuswc-translatable-texts.php:78
+msgid "Copy"
+msgstr "コピー"
+
+#: includes/class-npuswc-translatable-texts.php:79
+msgid "Close"
+msgstr "閉じる"
+
+#: includes/class-npuswc-translatable-texts.php:83
+msgid "Get a token"
+msgstr "トークンを取得"
+
+#: includes/data/class-npuswc-data-option.php:99
+msgid "Invalid params: please use a not-empty string for 1st param."
+msgstr "無効なパラメータ：空でないStringを第一パラメータに使用してください。"
+
+#: includes/function/functions-html.php:240
+#: includes/function/functions-html.php:249
+#: includes/function/functions-html.php:292
+#: includes/function/functions-html.php:299
+#: templates/admin-page/parts/settings.php:58
+msgid "Save"
+msgstr "保存"
+
+#: includes/function/functions-notice.php:173
+#, php-format
+msgid "Now Here is line %1$d in file \"%2$s\""
+msgstr "ここはファイル「%2$s」の%1$d行目です。"
+
+#: includes/notification/class-npuswc-mail.php:153
+#: includes/notification/class-npuswc-mail.php:178
+#, php-format
+msgid "%s - NPUSWC: Token is Expired."
+msgstr "%s NPUSWC: トークンの有効期限が切れています。"
+
+#: includes/notification/class-npuswc-mail.php:154
+msgid "Token is Expired."
+msgstr "トークンの有効期限が切れています。"
+
+#: includes/notification/class-npuswc-mail.php:180
+msgid "Failed."
+msgstr "失敗しました。"
+
+#: includes/order/class-npuswc-order.php:35
+#: includes/token/class-npuswc-token-handler.php:187
+#: includes/token/class-npuswc-token-validator.php:88
+msgid "Invalid Order."
+msgstr "無効な注文"
+
+#: includes/order/class-npuswc-order.php:486
+msgid "Wrong target to be set."
+msgstr "誤ったターゲットがセットされています。"
+
+#: includes/order/class-npuswc-order.php:490
+msgid "Wrong target to be deleted."
+msgstr "誤ったターゲットが削除されました。"
+
+#: includes/order/class-npuswc-order.php:507
+msgid "Target not found."
+msgstr "ターゲットが見つかりませんでした。"
+
+#: includes/order/class-npuswc-order.php:885
+msgid "The Latest Token is not found."
+msgstr "最新版のトークンが見つかりませんでした。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:100
+msgid "Required param doesn't exist."
+msgstr "要するパラメータが存在しません。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:105
+msgid "Data could not be decoded."
+msgstr "データがデコードできませんでした。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:150
+msgid "Token is not set."
+msgstr "トークンがセットされていません。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:271
+#, php-format
+msgid "Error for the update checker version %1$s"
+msgstr "アップデートチェッカーのバージョン「%1$s」でのエラー"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:359
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:393
+msgid "Failed to generate package data for some reason."
+msgstr "パッケージデータの生成に失敗しました。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:399
+msgid "Failed to JSONify package data for some reason."
+msgstr "パッケージデータのJSON化に失敗しました。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:476
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:486
+msgid "File URL not be found"
+msgstr "ファイルURLが見つかりませんでした。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:520
+msgid "File does not exist."
+msgstr "ファイルが存在しません。"
+
+#: includes/rest-api/class-npuswc-rest-api-endpoints-jwt.php:523
+msgid "File does not exist"
+msgstr "ファイルが存在しません。"
+
+#: includes/token/class-npuswc-data-token.php:142
+msgid "Wrong ID."
+msgstr "誤ったID"
+
+#: includes/token/class-npuswc-data-token.php:148
+#, php-format
+msgid "Wrong Post Type: %1$s"
+msgstr "誤った投稿タイプ：%1$s"
+
+#: includes/token/class-npuswc-data-token.php:180
+msgid "Wrong Order ID."
+msgstr "誤った注文ID"
+
+#: includes/token/class-npuswc-data-token.php:186
+msgid "Wrong Product ID."
+msgstr "誤った商品ID"
+
+#: includes/token/class-npuswc-data-token.php:190
+msgid "This is not downloadable product with update checker."
+msgstr "これは更新通知付きのダウンロード商品ではありません。"
+
+#: includes/token/class-npuswc-data-token.php:194
+msgid "Order does not have such a downloadable product."
+msgstr "該当する注文にそのようなダウンロードアイテムは存在しません。"
+
+#: includes/token/class-npuswc-data-token.php:350
+msgid "Wrong Params."
+msgstr "誤ったパラメータ"
+
+#: includes/token/class-npuswc-data-token.php:473
+msgid "Unlimited."
+msgstr ""
+
+#: includes/token/class-npuswc-data-token.php:555
+msgid "Read Data Error: Invalid ID."
+msgstr "データの読み込みエラー：無効なID"
+
+#: includes/token/class-npuswc-data-token.php:1272
+msgid "Token ID not found."
+msgstr "トークンIDが見つかりませんでした。"
+
+#: includes/token/class-npuswc-data-token.php:1277
+msgid "Something wrong to delete the update token."
+msgstr "アップデートトークンを削除するのに問題が生じました。"
+
+#: includes/token/class-npuswc-post-type-token.php:89
+#, fuzzy
+#| msgid "NPUSWC Client"
+msgctxt "post type general name"
+msgid "NPUSWC Tokens"
+msgstr "NPUSWC クライアント"
+
+#: includes/token/class-npuswc-post-type-token.php:90
+#, fuzzy
+#| msgid "NPUSWC Client"
+msgctxt "post type singular name"
+msgid "NPUSWC Token"
+msgstr "NPUSWC クライアント"
+
+#: includes/token/class-npuswc-post-type-token.php:91
+#, fuzzy
+#| msgid "NPUSWC Client"
+msgctxt "admin menu"
+msgid "NPUSWC Tokens"
+msgstr "NPUSWC クライアント"
+
+#: includes/token/class-npuswc-post-type-token.php:92
+#, fuzzy
+#| msgid "NPUSWC Client"
+msgctxt "add new on admin bar"
+msgid "NPUSWC Token"
+msgstr "NPUSWC クライアント"
+
+#: includes/token/class-npuswc-post-type-token.php:93
+msgctxt "token"
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/token/class-npuswc-post-type-token.php:94
+msgid "Add New Token"
+msgstr "新規トークンを追加"
+
+#: includes/token/class-npuswc-post-type-token.php:95
+msgid "New Token"
+msgstr "新規トークン"
+
+#: includes/token/class-npuswc-post-type-token.php:96
+msgid "Edit Token"
+msgstr "トークンを編集"
+
+#: includes/token/class-npuswc-post-type-token.php:97
+msgid "View Token"
+msgstr "トークンを見る"
+
+#: includes/token/class-npuswc-post-type-token.php:98
+msgid "All Tokens"
+msgstr "全てのトークン"
+
+#: includes/token/class-npuswc-post-type-token.php:99
+msgid "Search NPUSWC Tokens"
+msgstr "トークンを検索"
+
+#: includes/token/class-npuswc-post-type-token.php:100
+msgid "Parent Tokens:"
+msgstr "親トークン"
+
+#: includes/token/class-npuswc-post-type-token.php:101
+msgid "No tokens found."
+msgstr "トークンが見つかりませんでした。"
+
+#: includes/token/class-npuswc-post-type-token.php:102
+msgid "No tokens found in Trash."
+msgstr "ゴミ箱にトークンは見つかりませんでした。"
+
+#: includes/token/class-npuswc-post-type-token.php:107
+msgid "Description."
+msgstr "詳細。"
+
+#: includes/token/class-npuswc-token-handler.php:176
+msgid "Token is not the object : "
+msgstr "トークンがオブジェクトではありません。"
+
+#: includes/token/class-npuswc-token-handler.php:195
+#: includes/token/class-npuswc-token-validator.php:96
+msgid "Invalid Product."
+msgstr "無効な商品"
+
+#: includes/token/class-npuswc-token-handler.php:204
+msgid "Invalid Token."
+msgstr "無効なトークン"
+
+#: includes/token/class-npuswc-token-handler.php:320
+msgid "Token is not the latest."
+msgstr "トークンが最新版ではありません。"
+
+#: includes/token/class-npuswc-token-handler.php:325
+msgid "No need update expiry."
+msgstr "有効期限の更新の必要はありません。"
+
+#: includes/token/class-npuswc-token-handler.php:377
+msgid "Failed to decrease the number of updated token."
+msgstr ""
+
+#: includes/token/class-npuswc-token-handler.php:384
+msgid "Failed to delete the updated token."
+msgstr ""
+
+#: includes/token/class-npuswc-token-handler.php:449
+msgid "Failed to cancel the updated validation token."
+msgstr ""
+
+#: includes/token/class-npuswc-token-validator.php:75
+msgid "Failed to parse string into Token."
+msgstr ""
+
+#: includes/token/class-npuswc-token-validator.php:127
+msgid "Validator : wrong param input \"null\"."
+msgstr ""
+
+#: includes/token/class-npuswc-token-validator.php:162
+#, php-format
+msgid "Validating Token: Result False. %s"
+msgstr "トークンの有効性チェック：結果失敗。%s"
+
+#: includes/token/class-npuswc-token-validator.php:170
+#, php-format
+msgid "Validating Expiry: Result False. %s"
+msgstr "トークンの有効期限チェック：結果失敗。%s"
+
+#: includes/token/class-npuswc-token-validator.php:194
+msgid "This is even not token."
+msgstr "これはトークンではありません。"
+
+#: includes/token/class-npuswc-token-validator.php:236
+msgid "The token params are not valid."
+msgstr "トークンパラメータが有効ではありません。"
+
+#: includes/token/class-npuswc-token-validator.php:244
+msgid "The order doesn't exist."
+msgstr "注文が存在しません。"
+
+#: includes/token/class-npuswc-token-validator.php:250
+msgid "Such a Token is not registered."
+msgstr "そのようなトークンは登録されていません。"
+
+#: includes/token/class-npuswc-token-validator.php:314
+#: includes/token/class-npuswc-token-validator.php:325
+#, php-format
+msgid "Signer index does not exist in Token. %1$s"
+msgstr "トークンの署名インデックスが存在しません。%1$s"
+
+#: includes/token/class-npuswc-token-validator.php:345
+msgid "Sign is not valid."
+msgstr "署名が有効ではありません。"
+
+#: includes/token/class-npuswc-token-validator.php:396
+msgid "Update token is all used."
+msgstr "アップデートトークンは使用されています。"
+
+#: templates/admin-page/parts/guide.php:13
+msgid "Introduction"
+msgstr "案内"
+
+#: templates/admin-page/parts/guide.php:16
+msgid ""
+"This plugin enables you to update downloadable products (like WordPress "
+"themes and plugins ) sold by WooCommerce."
+msgstr "WooCommerceによって販売されるダウンロード商品の更新を可能にします。"
+
+#: templates/admin-page/parts/guide.php:16
+msgid ""
+"Then, clients can update the theme or the plugin in admin page like themes "
+"and plugins in WordPress repository while the download permission of the "
+"purchase is not expired."
+msgstr ""
+"ダウンロードの有効期限内であれば、クライアントはワードプレスリポジトリにある"
+"テーマやプラグインのように、それらを管理画面ページで更新することができます。"
+
+#: templates/admin-page/parts/guide.php:16
+msgid "Please read the how-to below."
+msgstr "以下の方法をお読みください。"
+
+#: templates/admin-page/parts/guide.php:25
+msgid "How to Use"
+msgstr "使い方"
+
+#: templates/admin-page/parts/guide.php:30
+msgid "https://package-update-server.com/how-to-use-our-plugins/"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:31
+msgid "Please read how-to in the page below."
+msgstr "ページの下部にある使い方をお読みください。"
+
+#: templates/admin-page/parts/guide.php:40
+#, php-format
+msgid ""
+"If your %1$s is not setup yet, go to %2$s and press the button \"Save changes"
+"\"."
+msgstr ""
+"%1$sがまだセットアップされていない場合、%2$sへ行き、「変更を保存」ボタンを押"
+"してください。"
+
+#: templates/admin-page/parts/guide.php:44
+msgid "Download Tokens Page"
+msgstr "ダウンロードトークンページ"
+
+#: templates/admin-page/parts/guide.php:49
+msgid "WooCommerce advance settings page"
+msgstr "WooCommerce高度設定ページ"
+
+#: templates/admin-page/parts/guide.php:52
+msgid ""
+"Just press the button to add the endpoint for purchased tokens of update "
+"checker to client's account page."
+msgstr ""
+"ボタンを押すだけで、クライアントのアカウントページに購入済みトークン用のエン"
+"ドポイントを追加できます。"
+
+#: templates/admin-page/parts/guide.php:55
+msgid ""
+"Package should request the package data, then request the file in a proper "
+"way in order to work with updating service by the shop."
+msgstr ""
+"販売元の更新サービスと上手く連携させるためには、パッケージは所定の方法にて"
+"データをリクエストし、更新パッケージをリクエストする必要があります。"
+
+#: templates/admin-page/parts/guide.php:56
+msgid ""
+"If you are selling WordPress Theme or Plugin, go to tool tab to download "
+"\"NPUSWC Client\" and include it in the package."
+msgstr ""
+"商品がワードプレスのテーマやプラグインの場合、ツールタブにて「NPUSWC クライア"
+"ント」をダウンロードし、パッケージにインクルードしてください。"
+
+#: templates/admin-page/parts/guide.php:59
+msgid ""
+"Setup the downloadable product with \"Package Type ( Theme, Plugin or "
+"Others )\". "
+msgstr ""
+"「パッケージタイプ（テーマやプラグイン、或いはその他）」付きのダウンロード商"
+"品の設定をします。"
+
+#: templates/admin-page/parts/guide.php:62
+msgid ""
+"Downloadable file name should be directory name of the theme or the plugin."
+msgstr ""
+"ダウンロードのファイル名にはパッケージのディレクトリ名でなくてはいけません。"
+
+#: templates/admin-page/parts/guide.php:65
+msgid ""
+"Set the \"Package Type\", \"Package Version\" and \"Tested Environment "
+"Version\"."
+msgstr ""
+"「パッケージタイプ」「パッケージのバージョン」「テストされたワードプレスの"
+"バージョン」を設定してください。"
+
+#: templates/admin-page/parts/guide.php:70
+msgid ""
+"* Please notify or indicate your clients to get the generated token to copy "
+"it to the update checker setting page."
+msgstr ""
+"※ 商品購入時にトークンを取得して更新通知の設定ページにコピーするように、お客"
+"様にご案内ください。"
+
+#: templates/admin-page/parts/tools.php:6
+#: templates/admin-page/parts/tools.php:13
+msgid "NPUSWC Client"
+msgstr "NPUSWC クライアント"
+
+#: templates/admin-page/parts/tools.php:16
+msgid "Download"
+msgstr "ダウンロード"
+
+#: templates/admin-page/parts/tools.php:25
+msgid ""
+"Download \"NPUSWC Client( file name : npuswc-client )\" above and include it "
+"in the product package."
+msgstr ""
+"上部の「npuswc-client」をダウンロードし、商品にインクルードしてください。"
+
+#: templates/admin-page/parts/tools.php:27
+msgid "Example."
+msgstr "例"
+
+#: templates/admin-page/template-admin-page.php:10
+msgid "Settings"
+msgstr "設定"
+
+#: templates/admin-page/template-admin-page.php:15
+msgid "Tools"
+msgstr "ツール"
+
+#: templates/admin-page/template-admin-page.php:20
+msgid "Guide"
+msgstr "案内"
+
+#~ msgid "Plugin file data is empty or does not have the property \"Version\"."
+#~ msgstr ""
+#~ "プラグインファイルデータが空、もしくは「Version」のプロパティを所有してい"
+#~ "ません。"
+
+#~ msgid "Update Checker: %s"
+#~ msgstr "アップデートチェッカー：%s"
+
+#~ msgid "Token was successfully updated."
+#~ msgstr "トークンが更新されました。"
+
+#~ msgid "%1$s : Please set your purchased token."
+#~ msgstr "%1$s：購入したトークンを設定してください。"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "This will send a following hashed url to the shop: \"%1$s\""
+#~ msgstr "これは次のハッシュされたURLをショップに送信いたします。「%1$s」"
+
+#~ msgid "%s : Update Checker Token"
+#~ msgstr "%s：アップデートチェッカートークン"
+
+#~ msgctxt "post type general name"
+#~ msgid "Tokens"
+#~ msgstr "トークン"
+
+#~ msgctxt "post type singular name"
+#~ msgid "Token"
+#~ msgstr "トークン"
+
+#~ msgctxt "admin menu"
+#~ msgid "Tokens"
+#~ msgstr "トークン"
+
+#~ msgctxt "add new on admin bar"
+#~ msgid "Token"
+#~ msgstr "トークン"
+
+#~ msgid ""
+#~ "Go to <a href=\"%s\">WooCommerce advance settings page</a> and press the "
+#~ "button \"Save changes\"."
+#~ msgstr ""
+#~ "<a href=“%s”>WooCommer高度設定ページ</a>へ行き、「変更を保存」ボタンを押し"
+#~ "てください。"
+
+#, fuzzy
+#~| msgid "Failed to generate package data for some reason."
+#~ msgid "Failed to generate package data for some reason"
+#~ msgstr "パッケージデータの生成に失敗しました。"
+
+#~ msgid "Wrong Type."
+#~ msgstr "誤ったタイプ"
+
+#~ msgid "This is not token product."
+#~ msgstr "これはトークン商品ではありません。"
+
+#~ msgid "JWT"
+#~ msgstr "トークン"
+
+#~ msgid "Validation"
+#~ msgstr "有効"
+
+#~ msgid "%s Settings"
+#~ msgstr "%s 設定"
+
+#~ msgid "Update expiry of the download."
+#~ msgstr "ダウンロードの有効期限の更新"
+
+#~ msgid ""
+#~ "This enables to update the client expiry when the content is updated in "
+#~ "shop by the time of client expire. * The updated expiry is going to be "
+#~ "\"Date file updated + Extended expiry in day\"."
+#~ msgstr ""
+#~ "これは有効期限までに販売元のパッケージが更新されている場合、更新通知を受け"
+#~ "取る際に有効期限も更新させます。更新された有効期限は「ファイル更新日 + 更"
+#~ "新される有効期限日数」となります。"
+
+#~ msgid "Date file updated"
+#~ msgstr "ファイル更新日"
+
+#~ msgid "Date the file is updated."
+#~ msgstr "ファイルが更新された日付"
+
+#~ msgid "Extended expiry in day"
+#~ msgstr "更新される有効期限日数"
+
+#~ msgid "Extended expiry in day."
+#~ msgstr "更新される有効期限日数です。"
+
+#~ msgid "Ristrict URL Accesses"
+#~ msgstr "アクセス制限"
+
+#~ msgid "This enables to restrict the accessible URL to purchased number."
+#~ msgstr "アクセス可能なURLを購入数分に限定します。"
+
+#~ msgid "This Plugin"
+#~ msgstr "プラグイン"
+
+#~ msgid "%1$s requires PHP version %2$s. You are currently using %3$s."
+#~ msgstr ""
+#~ "「%1$s」はPHPバージョン「%2$s」を要します。現在「%3$s」を使用しておりま"
+#~ "す。"
+
+#~ msgid "User URL is not valid."
+#~ msgstr "ユーザーURLが有効ではありません。"
+
+#~ msgid "The order doesn't have any downloadable items."
+#~ msgstr "該当する注文にダウンロードアイテムが存在しません。"
+
+#~ msgid "Signer is not valid"
+#~ msgstr "サイン方式が有効ではありません。"
+
+#~ msgid "Such a signer does not exist. "
+#~ msgstr "そのような署名は存在しません。"
+
+#~ msgid "Current latest version of \"%1$s\" is \"%2$s\"."
+#~ msgstr "現在「%1$s」の最新版は「%2$s」です。"
+
+#~ msgid "User URL is empty."
+#~ msgstr "ユーザーURLが空です。"
+
+#~ msgid "WP Works"
+#~ msgstr "WPワークス"
+
+#~ msgid "Complete."
+#~ msgstr "完了。"
+
+#~ msgid "Case the product is WordPress Theme or Plugin"
+#~ msgstr "商品がワードプレスコンテンツの場合"
+
+#~ msgid "Set the secret key, which is optionally used for security."
+#~ msgstr ""
+#~ "シークレットキーを設定してください。セキュリティ用のオプションです。"
+
+#~ msgid "Setup the product. "
+#~ msgstr "商品を設定してください。"
+
+#~ msgid ""
+#~ "Please select \"Theme\" or \"Plugin\" if the package is of WP Theme or "
+#~ "Plugin"
+#~ msgstr ""
+#~ "ダウンロードがWordPressテーマやプラグインなら、「テーマ」もしくは「プラグ"
+#~ "イン」を選択してください。"
+
+#~ msgid ""
+#~ "Please select theme or plugin if the downloadable content is of WP Theme "
+#~ "or Plugin"
+#~ msgstr ""
+#~ "ダウンロードがWordPressテーマやプラグインなら、テーマもしくはプラグインを"
+#~ "選択してください。"
+
+#~ msgid "CSV Import"
+#~ msgstr "CSVインポート"
+
+#~ msgid "File Manager"
+#~ msgstr "ファイルマネージャー"
+
+#~ msgid "Upload Files"
+#~ msgstr "アップロードファイル"
+
+#~ msgid "Just Drop XML/CSV Files in Square."
+#~ msgstr "XML/CSVファイルを四角内にただドロップしてください。"
+
+#~ msgid ""
+#~ "Multibyte or Special Characters in File Name will be fixed by WP Function."
+#~ msgstr ""
+#~ "ファイル名のマルチバイト文字や特殊文字はワードプレスの関数により補正されま"
+#~ "す。"
+
+#~ msgid ""
+#~ "Uploaded Files will be located in \"wp-content/uploads/npuswc-uploaded-"
+#~ "files\""
+#~ msgstr ""
+#~ "アップロードされるファイルは「\"wp-content/uploads/npuswc-uploaded-files"
+#~ "\"」に保存されます。"
+
+#~ msgid "Upload"
+#~ msgstr "CSVアップロード"
+
+#~ msgid "Handle Files"
+#~ msgstr "ファイル操作"
+
+#~ msgid "File Name"
+#~ msgstr "ファイル名"
+
+#~ msgid "File Extension"
+#~ msgstr "ファイル拡張子"
+
+#~ msgid "Uploaded Date"
+#~ msgstr "アップロード日時"
+
+#~ msgid "Imported ?"
+#~ msgstr "CSVインポート"
+
+#~ msgctxt "For File Manager Table Row"
+#~ msgid "Imported"
+#~ msgstr "済"
+
+#~ msgctxt "For File Manager Table Row"
+#~ msgid "Not Imported"
+#~ msgstr "未"
+
+#~ msgid "Import Data"
+#~ msgstr "データをインポート"
+
+#~ msgid "Delete Files"
+#~ msgstr "ファイルを削除"
+
+#~ msgid "CSV Headers"
+#~ msgstr "CSVヘッダー"
+
+#~ msgid "Select Data Type"
+#~ msgstr "データタイプを選択"
+
+#~ msgid "Process Import"
+#~ msgstr "インポート開始"
+
+#~ msgid "File Class is NOT Applied."
+#~ msgstr "File クラスが対応していません。"
+
+#, fuzzy
+#~ msgid "Imported"
+#~ msgstr "CSVインポート"

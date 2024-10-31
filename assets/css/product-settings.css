@@ -1,0 +1,11 @@
+.npuswc-token-settings-label {
+	font-weight: 900;
+	text-align: center;
+}
+
+#general_product_data .show_if_downloadable .options_group.npuswc_token_options,
+.woocommerce_variation .show_if_variation_downloadable .options_group.npuswc_token_options {
+	display: block;
+	border: solid 1px #CCC;
+	margin: 10px 0;
+}
